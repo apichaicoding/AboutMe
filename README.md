@@ -1,5 +1,5 @@
 #My Name is Loong
 
-Food: tomato Soup
-House: Bangkok
-Travel: Phuket
+Food: Tomyamkoong
+Address: Bangkok
+Job: Engineer
